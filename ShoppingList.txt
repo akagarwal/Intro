@@ -7,5 +7,6 @@ Cherries
 Carrots
 Cereal
 Cucumbers
-Radishes
 English Walnuts
+Chips
+Avocado
